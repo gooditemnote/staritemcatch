@@ -11,5 +11,11 @@ window.STARTEM_PRODUCTS = [
     "name": "상품 002",
     "partnerHtml": "<iframe src=\"https://coupa.ng/cqDBFs\" width=\"120\" height=\"240\" frameborder=\"0\" scrolling=\"no\" referrerpolicy=\"unsafe-url\"></iframe>",
     "publishedAt": "2026-11-03"
+  },
+  {
+    "id": "003",
+    "name": "상품 003",
+    "partnerHtml": "<iframe src=\"https://coupa.ng/cqE96R\" width=\"120\" height=\"240\" frameborder=\"0\" scrolling=\"no\" referrerpolicy=\"unsafe-url\"></iframe>",
+    "publishedAt": "2026-11-04"
   }
 ];
